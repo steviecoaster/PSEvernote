@@ -1,4 +1,4 @@
-#Evernote-Transcript.ps1
+# Evernote-Transcript.ps1
 
 _Parameters_
 
@@ -7,7 +7,7 @@ _Parameters_
 -Tag _The tag which to apply to the Note_
 -Transcript _The Transcript (or any file) you wish to append to the Note_
 
-#Usage
+# Usage
 
 _Example_
 ```powershell
