@@ -2,10 +2,13 @@
 
 _Parameters_
 
--Notebook _The name of the notebook to save a note too_
--Title _The title of the Note_
--Tag _The tag which to apply to the Note_
--Transcript _The Transcript (or any file) you wish to append to the Note_
+- Notebook _The name of the notebook to save a note too_
+
+- Title _The title of the Note_
+
+- Tag _The tag which to apply to the Note_
+
+- Transcript _The Transcript (or any file) you wish to append to the Note_
 
 # Usage
 
